@@ -65,7 +65,7 @@ function step1() {
 }
 
 jQuery(document).ready(function() {
-    fkCount = Math.floor(Math.random() * 70) + 35;
+    fkCount = Math.floor(Math.random() * 15);
     fkCurr = 0;
     s1block = false;
 
